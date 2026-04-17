@@ -1,6 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=matthiasschmitt-bot&color=blue)
 
-# 👋 Hi, ich bin Matthias
+
+# 👋 Hi, ich bin Matthias         du bist der ![Profile Views](https://komarev.com/ghpvc/?username=matthiasschmitt-bot&color=blue) .te Besucher danke dir. 👋
 
 Ich beschäftige mich aktuell intensiv mit **Data Analytics**, **SQL** und **Dashboard-Entwicklung** – vor allem mit praxisnahen, kleinen Projekten, die echte Geschäftsfragen beantworten.
 
