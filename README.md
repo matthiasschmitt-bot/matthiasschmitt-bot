@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=matthiasschmitt-bot&color=blue)
+
 # 👋 Hi, ich bin Matthias
 
 Ich beschäftige mich aktuell intensiv mit **Data Analytics**, **SQL** und **Dashboard-Entwicklung** – vor allem mit praxisnahen, kleinen Projekten, die echte Geschäftsfragen beantworten.
