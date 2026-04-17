@@ -1,52 +1,37 @@
-# Hi, ich bin Matthias 👋  
-### Angehender Data Analyst • Fokus auf Reporting, Dashboards & Business Insights
+# 👋 Hi, ich bin Matthias
 
-Ich arbeite daran, ein starkes Fundament im Bereich **Datenanalyse** aufzubauen – mit besonderem Fokus auf  
-**Reporting, Visualisierung, SQL‑Analysen und datengetriebenen Entscheidungen**.
+Ich beschäftige mich aktuell intensiv mit **Data Analytics**, **SQL** und **Dashboard-Entwicklung** – vor allem mit praxisnahen, kleinen Projekten, die echte Geschäftsfragen beantworten.
 
 ---
 
-## 🔧 Technologien & Werkzeuge
+## 🔧 Technologien & Fokus
 
-**Daten & Analyse:**  
-- SQL (PostgreSQL)  
-- Excel (Power Query, Pivot, Formeln)  
-- Datenbereinigung & Datenmodellierung  
-
-**Visualisierung & Reporting:**  
-- Dashboards  
-- KPI‑Analysen  
-- Business Insights  
-
-**Tools & Workflow:**  
-- Git & GitHub  
-- VS Code  
-- Jupyter Notebooks  
+- SQL (PostgreSQL)
+- Datenmodellierung (Tabellen, Beziehungen, Keys)
+- CSV-Datenanalyse
+- Erste Schritte in Dashboards (Excel / Power BI)
+- Prozess- und Lageroptimierung aus der Praxis
 
 ---
 
-## 📊 Was ich aktuell lerne
-- Aufbau professioneller Dashboards  
-- Strukturierte SQL‑Analysen für Geschäftsentscheidungen  
-- GitHub‑Workflows & Versionskontrolle  
-- Best Practices für Datenqualität & Reporting  
+## 📊 Aktuelles Projekt
 
----
+### Sales Analysis SQL Dashboard
 
-## 📁 Projekte & Übungen
-Hier findest du meine aktuellen Übungs‑ und Lernprojekte.  
-Ich erweitere mein Portfolio Schritt für Schritt – mit Fokus auf **saubere Struktur, klare Dokumentation und echte Business‑Relevanz**.
+Ein kleines, aber vollständiges Analytics-Projekt mit:
+
+- sauberem Datenmodell (Produkte, Kunden, Verkäufe)
+- CSV-Daten
+- SQL-Analysen (KPIs, Top-Produkte, Regionen, Zeitverlauf)
+- geplantem Dashboard
+
+👉 Repository:  
+[sales-analysis-sql-dashboard](https://github.com/DEIN_USERNAME/sales-analysis-sql-dashboard)
 
 ---
 
 ## 🎯 Ziele
-- Aufbau eines vollständigen Data‑Analytics‑Portfolios  
-- Professionelle SQL‑Analysen erstellen  
-- Dashboards entwickeln, die echte Mehrwerte liefern  
-- Daten so aufbereiten, dass sie Entscheidungen unterstützen  
 
----
-
-## 📬 Kontakt
-📧 **matthias.schmitt@student.smartfuturecampus.de**  
-📍 Deutschland  
+- SQL sicher und verständlich anwenden
+- Daten so aufbereiten, dass sie Entscheidungen unterstützen
+- Wissen später an andere weitergeben (Schulung, Doku, Präsentationen)
