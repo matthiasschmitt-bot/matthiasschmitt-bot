@@ -2,7 +2,7 @@
 
 # 👋 Hi, ich bin Matthias und du bist der <img src="https://komarev.com/ghpvc/?username=matthiasschmitt-bot&style=flat-square&label=" /> .te Besucher 👋
 
-Ich beschäftige mich aktuell intensiv mit **Data Analytics**, **SQL** und **Dashboard-Entwicklung** – vor allem mit praxisnahen, kleinen Projekten, die echte Geschäftsfragen beantworten.
+Ich beschäftige mich aktuell intensiv mit **Data Analytics**, **SQL** und **Dashboard-Entwicklung** – vor allem mit praxisnahen, kleinen Projekten, die relevanten Geschäftsfragen beantworten.
 
 ---
 
