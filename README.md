@@ -42,3 +42,14 @@ Ein kleines, aber vollständiges Analytics-Projekt mit:
 - SQL sicher und verständlich anwenden
 - Daten so aufbereiten, dass sie Entscheidungen unterstützen
 - Wissen später an andere weitergeben (Schulung, Doku, Präsentationen)
+
+## 📂 Projekte
+
+### 📊 Sales Analysis SQL Dashboard
+Ein vollständiges Mini-Analytics-Projekt mit:
+- relationalem Datenmodell (Produkte, Kunden, Verkäufe)
+- CSV-Daten
+- SQL-Analysen (KPIs, Top-Produkte, Regionen, Zeitverlauf)
+- geplantem Dashboard
+
+👉 [Zum Repository](https://github.com/matthiasschmitt-bot/sales-analysis-sql-dashboard)
