@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, ich bin Matthias 👋  
+### Angehender Data Analyst • Fokus auf Reporting, Dashboards & Business Insights
 
-<!--
-**matthiasschmitt-bot/matthiasschmitt-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich arbeite daran, ein starkes Fundament im Bereich **Datenanalyse** aufzubauen – mit besonderem Fokus auf  
+**Reporting, Visualisierung, SQL‑Analysen und datengetriebenen Entscheidungen**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologien & Werkzeuge
+
+**Daten & Analyse:**  
+- SQL (PostgreSQL)  
+- Excel (Power Query, Pivot, Formeln)  
+- Datenbereinigung & Datenmodellierung  
+
+**Visualisierung & Reporting:**  
+- Dashboards  
+- KPI‑Analysen  
+- Business Insights  
+
+**Tools & Workflow:**  
+- Git & GitHub  
+- VS Code  
+- Jupyter Notebooks  
+
+---
+
+## 📊 Was ich aktuell lerne
+- Aufbau professioneller Dashboards  
+- Strukturierte SQL‑Analysen für Geschäftsentscheidungen  
+- GitHub‑Workflows & Versionskontrolle  
+- Best Practices für Datenqualität & Reporting  
+
+---
+
+## 📁 Projekte & Übungen
+Hier findest du meine aktuellen Übungs‑ und Lernprojekte.  
+Ich erweitere mein Portfolio Schritt für Schritt – mit Fokus auf **saubere Struktur, klare Dokumentation und echte Business‑Relevanz**.
+
+---
+
+## 🎯 Ziele
+- Aufbau eines vollständigen Data‑Analytics‑Portfolios  
+- Professionelle SQL‑Analysen erstellen  
+- Dashboards entwickeln, die echte Mehrwerte liefern  
+- Daten so aufbereiten, dass sie Entscheidungen unterstützen  
+
+---
+
+## 📬 Kontakt
+📧 **matthias.schmitt@student.smartfuturecampus.de**  
+📍 Deutschland  
