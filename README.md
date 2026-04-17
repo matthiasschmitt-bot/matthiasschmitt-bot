@@ -26,7 +26,7 @@ Ein kleines, aber vollständiges Analytics-Projekt mit:
 - geplantem Dashboard
 
 👉 Repository:  
-[sales-analysis-sql-dashboard](https://github.com/DEIN_USERNAME/sales-analysis-sql-dashboard)
+[sales-analysis-sql-dashboard](https://github.com/matthiasschmitt-bot/sales-analysis-sql-dashboard)
 
 ---
 
