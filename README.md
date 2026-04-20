@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="DEIN-BANNER-LINK" alt="Matthias Schmitt – Data-Driven Operations" width="100%">
+  <img src="banner.png" alt="Matthias Schmitt – Data-Driven Operations" width="100%">
 </p>
 ---
 
