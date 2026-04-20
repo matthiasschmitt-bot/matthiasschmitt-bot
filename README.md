@@ -34,8 +34,17 @@ Ein kleines, aber vollständiges Analytics-Projekt mit:
 - SQL-Analysen (KPIs, Top-Produkte, Regionen, Zeitverlauf)
 - geplantem Dashboard
 
-👉 Repository:  
-[sales-analysis-sql-dashboard](https://github.com/matthiasschmitt-bot/sales-analysis-sql-dashboard)
+- ## 📂 Ausgewählte Projekte
+
+### 1️⃣ Sales Analysis SQL Dashboard
+**Ziel:** Transparenz über Umsatz, Marken und Kategorien schaffen, um Sortimentsentscheidungen zu unterstützen.
+
+**Was ich gemacht habe:**
+- Relationales Datenmodell (Kunden, Produkte, Kategorien, Verkäufe)
+- SQL‑Abfragen für KPIs (Umsatz, Top‑Marken, Kategorien, Zeitverläufe)
+- Vorbereitung der Datenbasis für ein Dashboard (Power BI / Excel)
+
+**Mehr dazu:** 👉 [Repository ansehen](https://github.com/matthiasschmitt-bot/sales-analysis-sql-dashboard)
 
 
 
