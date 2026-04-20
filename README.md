@@ -1,4 +1,12 @@
-## 👋 Hi, ich bin Matthias           und Sie sind die Nummer  <img src="https://komarev.com/ghpvc/?username=matthiasschmitt-bot&style=flat-square&label=" /> 👋
+<p align="center">
+  <img src="DEIN-BANNER-LINK" alt="Matthias Schmitt – Data-Driven Operations" width="100%">
+</p>
+---
+
+
+## 👋 Hi, ich bin Matthias   und Sie sind die Nummer  <img src="https://komarev.com/ghpvc/?username=matthiasschmitt-bot&style=flat-square&label=" /> 👋
+
+
 
 Head of Warehouse (Administration & Planning) mit Fokus auf **Data Analytics, SQL (PostgreSQL)** und **prozessnahe Dashboards**.  
 Ich verbinde **Praxis aus Logistik & Lagerverwaltung** mit **Datenmodellen, Abfragen und Visualisierungen**, die relevante Entscheidungen unterstützen.
