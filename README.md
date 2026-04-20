@@ -80,3 +80,9 @@ Ein vollständiges Mini-Analytics-Projekt mit:
 - geplantem Dashboard
 
 👉 [Zum Repository](https://github.com/matthiasschmitt-bot/sales-analysis-sql-dashboard)
+
+## 🤝 Lass uns sprechen
+
+- 📧 E-Mail: matthias.schmitt@student.smartfuturecamp.de  
+- 🌍 Standort: 67473 Lindenberg – Fokus auf Logistik & Lagerverwaltung  
+- 💡 Themen: Data Analytics in der Logistik, SQL‑Analysen, Lager- und Prozessoptimierung
