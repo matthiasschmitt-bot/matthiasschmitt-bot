@@ -6,6 +6,12 @@ Ich verbinde **Praxis aus Logistik & Lagerverwaltung** mit **Datenmodellen, Abfr
 
 ---
 
+## 📈 GitHub Stats
+
+![Matthias' GitHub Stats](https://github-readme-stats.vercel.app/api?matthiasschmitt-bot=matthiasschmitt-bot&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?matthiasschmitt-bot=matthiasschmitt-bot&layout=compact)
+
 ## 🔧 Technologien & Fokus
 
 - SQL (PostgreSQL)
