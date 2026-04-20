@@ -1,8 +1,8 @@
+## 👋 Hi, ich bin Matthias           und Sie sind die Nummer  <img src="https://komarev.com/ghpvc/?username=matthiasschmitt-bot&style=flat-square&label=" /> 👋
 
+Head of Warehouse (Administration & Planning) mit Fokus auf **Data Analytics, SQL (PostgreSQL)** und **prozessnahe Dashboards**.  
+Ich verbinde **Praxis aus Logistik & Lagerverwaltung** mit **Datenmodellen, Abfragen und Visualisierungen**, die relevante Entscheidungen unterstützen.
 
-# 👋 Hi, ich bin Matthias und du bist der <img src="https://komarev.com/ghpvc/?username=matthiasschmitt-bot&style=flat-square&label=" /> .te Besucher 👋
-
-Ich beschäftige mich aktuell intensiv mit **Data Analytics**, **SQL** und **Dashboard-Entwicklung** – vor allem mit praxisnahen, kleinen Projekten, die relevanten Geschäftsfragen beantworten.
 
 ---
 
