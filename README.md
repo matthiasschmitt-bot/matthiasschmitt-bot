@@ -3,14 +3,15 @@
 Head of Warehouse (Administration & Planning) mit Fokus auf **Data Analytics, SQL (PostgreSQL)** und **prozessnahe Dashboards**.  
 Ich verbinde **Praxis aus Logistik & Lagerverwaltung** mit **Datenmodellen, Abfragen und Visualisierungen**, die relevante Entscheidungen unterstützen.
 
+> _„Daten sind nur dann wertvoll, wenn sie Entscheidungen verändern.“_             
 
+**Head of Warehouse | Data Analytics | SQL | Dashboards**
+
+- 📦 Logistik & Lagerverwaltung aus der Praxis  
+- 🧮 Datenmodelle & SQL‑Abfragen für echte Geschäftsfragen  
+- 📊 Dashboards für Transparenz in Prozessen und Beständen  
 ---
 
-## 📈 GitHub Stats
-
-![Matthias' GitHub Stats](https://github-readme-stats.vercel.app/api?matthiasschmitt-bot=matthiasschmitt-bot&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?matthiasschmitt-bot=matthiasschmitt-bot&layout=compact)
 
 ## 🔧 Technologien & Fokus
 
@@ -53,12 +54,14 @@ Ein kleines, aber vollständiges Analytics-Projekt mit:
 **Mehr dazu:** 👉 [Repository ansehen](https://github.com/matthiasschmitt-bot/sales-analysis-sql-dashboard)
 
 
-
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthiasschmitt-bot&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthiasschmitt-bot&layout=compact&theme=dark)
+
+
+
 ---
 
 ## 🎯 Ziele
